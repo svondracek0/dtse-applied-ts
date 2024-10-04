@@ -1,0 +1,4 @@
+# files to be ignred by git
+
+.idea
+.venv
